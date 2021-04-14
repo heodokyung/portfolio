@@ -101,18 +101,22 @@ span.ico.new {color:#b6ff00;}
 .skill__list li .back {display:flex; align-items: center; transform: rotateY(180deg); padding: 30px; background: #eee; color: #222; font-size: 14px; word-break: keep-all;}
 .skill__list li .front p {position:absolute; top:130px; left:0; right:0; text-align:center; width:100%;}
 
-.skill__list li.html .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list1.png);}
-.skill__list li.script .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list2.png);}
-.skill__list li.jquery .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list3.png);}
-.skill__list li.vue .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list4.png);}
-.skill__list li.sass .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list5.png);}
-.skill__list li.zeplin .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list6.png);}
-.skill__list li.jira .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list7.png);}
-.skill__list li.wiki .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list8.png);}
-.skill__list li.redmine .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list9.png);}
-.skill__list li.git .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list10.png);}
-.skill__list li.sublime .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list11.png);}
-.skill__list li.slack .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_list12.png);}
+.skill__list li.html .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_html.png);}
+.skill__list li.script .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_script.png);}
+.skill__list li.jquery .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_jquery.png);}
+.skill__list li.vue .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_vue.png);}
+.skill__list li.sass .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_sass.png);}
+.skill__list li.zeplin .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_zeplin.png);}
+.skill__list li.jira .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_jira.png);}
+.skill__list li.wiki .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_wiki.png);}
+.skill__list li.redmine .front:before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_redmine.png);}
+.skill__list li.git .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_git.png);}
+.skill__list li.sublime .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_sublime.png);}
+.skill__list li.slack .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_slack.png);}
+.skill__list li.redux .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_redux.png);}
+.skill__list li.react .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_react.png);}
+.skill__list li.vscode .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_vscode.png);}
+.skill__list li.next .front::before {background-image:url(https://heodokyung.github.io/portfolio/img/main/ico_skill_next.png);}
 
 /* Work info */
 .step--list__guide > ul {position:relative;}

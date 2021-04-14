@@ -405,6 +405,12 @@ const app = new Vue({
 				url : "https://www.w3schools.com/"
 			},
 			{
+				names : "Sass",
+				class : "sass",
+				details : "Sass를 활용하여 CSS를 컴파일 합니다. 간결하고 재사용, 확장성이 가능한 CSS 코드를 사용하려 합니다.",
+				url : "https://sass-lang.com/"
+			},
+			{
 				names : "JavaScript",
 				class : "script",
 				details : "JavaScript의 ES5, ES6 문법을 활용하여 웹/앱 환경에 최적화 된 모션과 기능을 구현하도록 노력합니다.",
@@ -423,10 +429,28 @@ const app = new Vue({
 				url : "https://kr.vuejs.org/v2/guide/index.html"
 			},
 			{
-				names : "Sass",
-				class : "sass",
-				details : "Sass를 활용하여 CSS를 컴파일 합니다. 간결하고 재사용, 확장성이 가능한 CSS 코드를 사용하려 합니다.",
-				url : "https://sass-lang.com/"
+				names : "React",
+				class : "react",
+				details : "React를 공부중이며 최신 트랜트를 익히려고 노력합니다.",
+				url : "https://github.com/"
+			},
+			{
+				names : "Redux",
+				class : "redux",
+				details : "React의 상태관리를 위해 Redux를 사용합니다.",
+				url : "https://ko.redux.js.org/introduction/getting-started/"
+			},
+			{
+				names : "Next",
+				class : "next",
+				details : "React의 SSR(Server Side Rendering)을 쉽게 구현할 수 있도록 Next.js를 이용했습니다.",
+				url : "https://nextjs.org/"
+			},
+			{
+				names : "Git/SVN",
+				class : "git",
+				details : "다수의 작업자들과 효율적으로 작업을 진행하기 위해 히스토리 관리 및 버전관리를 사용하였습니다.",
+				url : "https://github.com/"
 			},
 			{
 				names : "Zeplin",
@@ -453,10 +477,10 @@ const app = new Vue({
 				url : "RedMine을 통하여 프로젝트의 전체 업무 일정을 확인하고 배분하여 작업을 진행하였습니다."
 			},
 			{
-				names : "Git/SVN",
-				class : "git",
-				details : "여러명의 작업자들이 함께 작업을 진행해야 하기 때문에 히스토리 관리 및 버전관리를 진행하였습니다.",
-				url : "https://github.com/"
+				names : "Slack",
+				class : "slack",
+				details : "Slack을 통해 이슈사항을 공유하고 프로젝트별로 채널을 만들어 업무의 상황과 이슈를 공유하여 효율을 높입니다.",
+				url : "https://slack.com/"
 			},
 			{
 				names : "Sublime\nText",
@@ -465,10 +489,10 @@ const app = new Vue({
 				url : "https://www.sublimetext.com/"
 			},
 			{
-				names : "Slack",
-				class : "slack",
-				details : "Slack을 통해 이슈사항을 공유하고 프로젝트별로 채널을 만들어 업무의 상황과 이슈를 공유하여 효율을 높입니다.",
-				url : "https://slack.com/"
+				names : "VSCode",
+				class : "vscode",
+				details : "VSCode의 기능을 활용하여 보다 정확한 코드를 작성하고 업무의 효율을 증진시킵니다.",
+				url : "https://code.visualstudio.com/"
 			},
 		],
 		query : '',
