@@ -200,7 +200,7 @@ span.ico.new {color:#b6ff00;}
 
 @media only screen and (max-width:960px) {
     .skill__list li {width:30%; margin:0 1% 15px 1%;}
-    .main__visual {height:inherit;}
+    .main__visual {height:450px}
     .main__visual img {display:block; width:100%; height:auto;}
 }
 
@@ -215,6 +215,7 @@ span.ico.new {color:#b6ff00;}
 }
 
 @media screen and (max-width:420px) {
+    .main__visual {height:320px}
     .sort__wrap select,
     .sort__wrap .sch_txt {width:49%;}
     .port__list li .over .tit span.date {display:none;}
