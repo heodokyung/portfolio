@@ -70,10 +70,10 @@ const app = new Vue({
 				gubun : "y2018 y2019 y2020 y2021 ui w r",
 				type : "Responsive",
 				leng : "KOR",
-				new : false,
-				date : "2021.07.13 ~ "+fulldate+" ",
+				new : true,
+				date : "2021.07.12 ~ "+fulldate+" ",
 				link : "detail/web/w_finnq_v3.html",
-				imgSrc : "img/portfolio/finnq_w.jpg",
+				imgSrc : "img/portfolio/finnq_w_v2.jpg",
 				title : "Finnq<br />웹 React 개편",
 				sch : "2018 2019 2020 2021 finnq 핀크 web responsive 반응형 웹 홈페이지 react"
 			},
