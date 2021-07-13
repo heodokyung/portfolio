@@ -70,7 +70,7 @@
 .port__list li .over .more:after {display:inline-block; content:"+"; font-size:14px; margin-left:5px; color:#fff;}
 .tmb_tit {position: absolute; left: 0; top: 50%; right: 0; bottom: 0; margin-top: -1em; font-size: 50px; text-align: center; color: #fff;}
 
-.ico_wrap {position:absolute; top:5px; right:5px;}
+.ico_wrap {position:absolute; top:5px; right:5px; z-index:5;}
 span.ico {display:inline-block; padding:4px 6px; font-size:12px; font-family:Arial; vertical-align:top; border-radius:4px; background:rgba(2, 2, 2, 0.6); color:#fff;}
 li.even span.ico {color:#000;}
 span.ico ~ .ico {margin-left:3px;}

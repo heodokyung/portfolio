@@ -92,8 +92,8 @@ $(function(){
 				<dd>\
 					<ul>\
 						<li>기간 : 2018.08. ~ 재직중</li>\
-						<li>소속 / 직급 : Platform개발 2팀 / 매니저</li>\
-						<li>담당업무 : Finnq App/Web에서 제공하는 다양한 서비스 운영 및 신규 서비스 개발, 젠킨스(Jenkins)를 사용해 배포를 진행하고 있습니다.<br /> Sketch와 Zepline을 사용하여 기획자 및 디자이너와 협업을 진행하고 있으며 Jira, Wiki Confluence, Slack을 사용하여 이슈처리 대응 및 히스토리 관리를 합니다.</li>\
+						<li>소속 / 직급 : 개발 2팀 / 매니저</li>\
+						<li>담당업무 : Finnq App/Web에서 제공하는 다양한 서비스 운영 및 신규 서비스 개발, 젠킨스(Jenkins)를 사용해 배포를 진행하고 있습니다.<br /> Sketch와 Zepline을 사용하여 기획자 및 디자이너와 협업을 진행하고 있으며 Jira, Wiki Confluence, Slack을 사용하여 이슈처리 대응 및 히스토리 관리를 합니다.</li>\
 					</ul>\
 				</dd>\
 			</dl>\
