@@ -80,8 +80,8 @@ span.ico.new {color:#b6ff00;}
 .main__visual .title_wrap {position:absolute; left:0; right:0; top:0; bottom:0; background:rgba(0, 0, 0, 0.4); z-index:5; padding:40px 30px;}
 .main__visual .tit {font-size:72px; line-height:84px; color:#fff; font-family:"notoSansB";
     animation:slideInDown .85s forwards ease-in-out; -webkit-animation:slideInDown .85s forwards ease-in-out;}
-.main__visual .tit span {text-stroke: 1px #fff; -webkit-text-stroke: 1px rgba(255, 255, 255, 0.774); color:transparent; background-clip: text; -webkit-background-clip: text;
-    -moz-background-clip: text;}
+.main__visual .tit span {text-stroke: 1px #fff; -webkit-text-stroke: 1px rgba(255, 255, 255, 0.774); color:transparent; background-clip: text; -webkit-background-clip: text; -moz-background-clip: text;}
+.msie .main__visual .tit span {background-color:gold;}
 .main__visual .sub_tit {margin-top:40px; font-size:18px; line-height:24px; color:#fff; word-break:keep-all; /* animation:fadeInLeft 1.2s ease-in-out; -webkit-animation:fadeInLeft 1.2s ease-in-out; */}
 
 .main__visual img {display:none;}

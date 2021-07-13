@@ -67,6 +67,17 @@ const app = new Vue({
 	data: {
 		portfolio:[
 			{
+				gubun : "y2018 y2019 y2020 y2021 ui w r",
+				type : "Responsive",
+				leng : "KOR",
+				new : false,
+				date : "2021.07.13 ~ "+fulldate+" ",
+				link : "detail/web/w_finnq_v3.html",
+				imgSrc : "img/portfolio/finnq_w.jpg",
+				title : "Finnq<br />웹 React 개편",
+				sch : "2018 2019 2020 2021 finnq 핀크 web responsive 반응형 웹 홈페이지 react"
+			},
+			{
 				gubun : "y2018 y2019 y2020 y2021 ui m",
 				type : "MOBILE",
 				leng : "KOR",
@@ -75,18 +86,18 @@ const app = new Vue({
 				link : "detail/mobile/m_finnq_app_v2.html",
 				imgSrc : "img/portfolio/finnq_m.jpg",
 				title : "Finnq<br />모바일 앱 서비스 운영",
-				sch : "2018 finnq 핀크 mobile app 앱"
+				sch : "2018 2019 2020 2021 finnq 핀크 mobile app 앱 모바일"
 			},
 			{
 				gubun : "y2018 y2019 y2020 y2021 ui w r",
 				type : "Responsive",
 				leng : "KOR",
 				new : false,
-				date : "2018.08.01 ~ "+fulldate+" ",
+				date : "2018.08.01 ~ 2021.07.12",
 				link : "detail/web/w_finnq_v2.html",
 				imgSrc : "img/portfolio/finnq_w.jpg",
 				title : "Finnq<br />웹 서비스 2.0 운영",
-				sch : "2018 finnq 핀크 web responsive 반응형 웹 홈페이지"
+				sch : "2018 2019 2020 2021 finnq 핀크 web responsive 반응형 웹 홈페이지"
 			},
 			{
 				gubun : "y2017 p2018 ui w",
@@ -97,7 +108,7 @@ const app = new Vue({
 				link : "detail/web/w_kebhana_open.html",
 				imgSrc : "img/portfolio/kebhana_w_open.jpg",
 				title : "KEB 하나은행<br />기업뱅킹 고도화 구현",
-				sch : "2017 KEB 하나은행 기업뱅킹 hanabank web 웹 홈페이지"
+				sch : "2017 2018 KEB 하나은행 기업뱅킹 hanabank web 웹 홈페이지"
 			},
 			{
 				gubun : "y2018 ui m",
